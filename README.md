@@ -1,4 +1,4 @@
-# Optimal Transport Kernel Embedding for Sets
+# Optimal Transport Kernel Embedding for Sets (OTKE)
 Study of [A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention](https://openreview.net/pdf?id=ZK6vTvb84s) for the course of Computational Optimal Transport Project, Master MVA 2022.
 
 ## Abstract
